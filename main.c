@@ -1,5 +1,3 @@
-// NOTE: DO NOT CHANGE anything here as the initial version of this file will be used for marking the assignment
-// You can change it only to run test cases. But for the final submission this version must work
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
