@@ -1,4 +1,4 @@
-## Property Prices: High-Performance CSV Ingestion and Hash Indexing in C
+## Property Prices: High-Performance CSV Ingestion and Hash Indexing in C (High Volume Data Parsing),
 
 This project demonstrates how to efficiently ingest large CSV datasets and build an in-memory hash index for fast lookups, implemented in portable C. It loads UK Property Price data from CSV (e.g., `pp-2024.csv`, `pp-2023.csv`), constructs a hash index on the `street` field, and compares linear search with indexed lookups, reporting timing and load factor statistics.
 
